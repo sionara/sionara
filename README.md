@@ -1,4 +1,8 @@
-### Hi there 👋
+### Sion Lee
+
+Aspiring Web Developer. Self-taught front-end developer.
+
+{https://www.linkedin.com/in/sion-lee-lnkdin/}(My linkedin)
 
 <!--
 **sionara/sionara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
