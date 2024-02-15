@@ -1,6 +1,6 @@
 ### Sion Lee
 
-Self-taught Full-Stack Developer. Check out my Github to see some of the pages I am working on!
+Full-Stack Developer. Check out my Github to see some of the pages I am working on!
 - 🔭 I’m currently working on building a responsive website using HTML/CSS and Javascript.
 
 [My linkedin](https://www.linkedin.com/in/sion-lee-lnkdin/)
