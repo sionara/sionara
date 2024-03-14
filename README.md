@@ -1,20 +1,15 @@
-### Sion Lee
+### Hello! I'm Sion
 
-Full-Stack Developer. Check out my Github to see some of the pages I am working on!
-- 🔭 I’m currently working on building a responsive website using HTML/CSS and Javascript.
+I am a Full-Stack Developer from Toronto.
 
+**Some of my works include**
+- [Hackathon web Game](https://sionara.github.io/GGJ/)
+- Online bookstore built Node.js
+
+Check out my Github to see some of the pages I am working on!
+
+- 🔭 I’m currently working on a real-time online rock-paper-scissors game! Feel free to check it out and let me know what you think!
+
+📫 How to reach me:
+Email: sionlee29@gmail.com
 [My linkedin](https://www.linkedin.com/in/sion-lee-lnkdin/)
-<!--
-**sionara/sionara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
