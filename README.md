@@ -1,4 +1,4 @@
-[![Banner](./brain.png)](/)
+[![Banner](./banner.png)](/)
 
 I am a Full-Stack Developer from Toronto.
 
