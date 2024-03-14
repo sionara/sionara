@@ -1,6 +1,8 @@
 [![Banner](./banner.png)](/)
-
-I am a Full-Stack Developer from Toronto.
+</br>
+</br>
+</br>
+## I am a Full-Stack Developer from Toronto
 
 **Some of my works include**
 - [Hackathon web Game](https://sionara.github.io/GGJ/)
