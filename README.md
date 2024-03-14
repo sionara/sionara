@@ -1,4 +1,4 @@
-### Hello! I'm Sion
+# Hello! I'm Sion
 
 I am a Full-Stack Developer from Toronto.
 
