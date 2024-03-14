@@ -1,3 +1,4 @@
+[![Banner](./.jpg)](https://link-to-your-repository)
 # Hello! I'm Sion
 
 I am a Full-Stack Developer from Toronto.
