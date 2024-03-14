@@ -1,4 +1,4 @@
-[![Banner](./banner.jpg)](/)
+[![Banner](./github-banner.jpg)](/)
 # Hello! I'm Sion
 
 I am a Full-Stack Developer from Toronto.
