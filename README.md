@@ -1,4 +1,4 @@
-[![Banner](./.jpg)](https://link-to-your-repository)
+[![Banner](./banner.jpg)](/)
 # Hello! I'm Sion
 
 I am a Full-Stack Developer from Toronto.
