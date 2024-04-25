@@ -5,8 +5,9 @@
 ## I am a Full-Stack Developer from Toronto
 
 **Some of my works include**
+- [Online Rock-Paper-Scissor Game with real-time chat](https://capstone-game-ui.vercel.app/)
 - [Hackathon web Game](https://sionara.github.io/GGJ/)
-- Online bookstore built Node.js
+- Bookstore website built with PUG and Node.js
 
 Check out my Github to see some of the pages I am working on!
 
