@@ -1,23 +1,25 @@
-[![Banner](./banner.png)](/)
-</br>
-</br>
-</br>
-## I am a Full-Stack Developer from Toronto
+## Sion Lee
 
-**Some of my works include**
-- [Online Rock-Paper-Scissor Game with real-time chat](https://capstone-game-ui.vercel.app/)
-- [Hackathon web Game](https://sionara.github.io/GGJ/)
-- Bookstore website built with PUG and Node.js
+Software engineer focused on REST API integration and full-stack development.
+Currently at LG CNS America, supporting and troubleshooting manufacturing
+integrations for a major EV battery client. Background in enterprise systems
+(SAP, MES, WMS, OPC-UA, Solace event messaging) and full-stack development
+with TypeScript/Node/React and C#/.NET.
 
-Check out my Github to see some of the pages I am working on!
+**Currently exploring:** Python and FastAPI for integration services, RAG and
+the Model Context Protocol (MCP) for AI-assisted developer tooling.
 
-- 🌱 I am looking for **Internships in Web Development**
-- 🔭 I am currently working on a real-time online rock-paper-scissors game! Feel free to check it out and let me know what you think!
-- 🎵 Fun fact about me: I love to listen to music
+**Get in touch:** [portfolio](https://web-portfolio-mu-murex.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sion-lee-lnkdin) · sionlee29@gmail.com
 
-📫 How to reach me:
-- Email: sionlee29@gmail.com
-- [My linkedin](https://www.linkedin.com/in/sion-lee-lnkdin/)
+### Featured work
+
+Pinned below: a real-time multiplayer game (TypeScript / Node / Socket.io),
+a Node/MongoDB e-commerce app, and a C#/ASP.NET content management system.
+
+### Tech I work with
+
+TypeScript / JavaScript · Node.js · React · C# / .NET · Java · Python ·
+SQL (Oracle, MySQL, MSSQL) · REST APIs · Docker · AWS · Git
 
 ### :hammer_and_wrench: Languages and Tools :
 
