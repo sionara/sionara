@@ -16,11 +16,6 @@ the Model Context Protocol (MCP) for AI-assisted developer tooling.
 Pinned below: a real-time multiplayer game (TypeScript / Node / Socket.io),
 a Node/MongoDB e-commerce app, and a C#/ASP.NET content management system.
 
-### Tech I work with
-
-TypeScript / JavaScript · Node.js · React · C# / .NET · Java · Python ·
-SQL (Oracle, MySQL, MSSQL) · REST APIs · Docker · AWS · Git
-
 ### :hammer_and_wrench: Languages and Tools :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,5 +35,3 @@ SQL (Oracle, MySQL, MSSQL) · REST APIs · Docker · AWS · Git
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sionara&show_icons=true&locale=en&layout=compact" alt="sionara" /></p>
